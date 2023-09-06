@@ -58,7 +58,7 @@ The visualizer generates a set of random elements and applies the chosen sorting
 
 ## Portfolio
 
-For more projects and information about me, check out my [Portfolio](#).
+For more projects and information about me, check out my [Portfolio](https://abdulshahid.net/).
 
 ## Contact
 
